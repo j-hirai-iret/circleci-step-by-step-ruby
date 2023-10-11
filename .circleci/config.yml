@@ -47,8 +47,3 @@ workflows:
   build:
     jobs:
       - ruby-test
-
-
-
-
-
